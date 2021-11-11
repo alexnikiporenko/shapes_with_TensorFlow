@@ -1,6 +1,6 @@
 # shapes_with_TensorFlow
-Using TensorFlow to recognise shapes
+Recognising shapes with TensorFlow (95%+ val_acc)
 
 Uses the following dataset: https://www.kaggle.com/cactus3/basicshapes
 
-View on Kaggle - https://www.kaggle.com/alexnikiporenko/using-tensorflow-to-recognise-shapes-90-acc/notebook
+View on Kaggle - https://www.kaggle.com/alexnikiporenko/recognising-shapes-with-tensorflow-95-val-acc/notebook
